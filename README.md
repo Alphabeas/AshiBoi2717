@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm P. Ashrith Reddy</h1>
 <h3 align="center">Crafting intuitive interfaces and data-driven solutions.</h3>
 
+<h1>asrith is awsome </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphabeas&label=Profile%20views&color=0e75b6&style=flat" alt="alphabeas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphabeas" alt="alphabeas" /></a> </p>
